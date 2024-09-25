@@ -1,1 +1,7 @@
 This is test 2 file
+
+
+This is new line in some thing
+
+
+this is something
